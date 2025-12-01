@@ -3,12 +3,12 @@
   <p>Com Vue e Vuetify</p>
 </template>
 
-<style>
+<style scoped lang="scss">
   h1 {
-    color: red
+    color: red;
   }
   p {
-    color: blue
+    color: blue;
   }
 </style>
 

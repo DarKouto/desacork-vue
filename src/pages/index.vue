@@ -3,5 +3,11 @@
 </script>
 
 <template>
-  <HelloWorld />
+  <AppBar />
+  <HeroSection />
+  <Footer />
 </template>
+
+<style scoped>
+
+</style>

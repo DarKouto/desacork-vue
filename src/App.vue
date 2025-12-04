@@ -1,3 +1,7 @@
+<script setup>
+  console.log("Este é o App.vue")
+</script>
+
 <template>
   <v-app>
     <v-main>
@@ -5,7 +9,3 @@
     </v-main>
   </v-app>
 </template>
-
-<script setup>
-  //
-</script>

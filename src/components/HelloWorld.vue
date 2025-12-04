@@ -1,9 +1,13 @@
+<script setup>
+  console.log("Este é o HelloWorld.vue")
+</script>
+
 <template>
   <h1>Desacork.com</h1>
   <p>Com Vue e Vuetify</p>
 </template>
 
-<style scoped lang="scss">
+<style scoped>
   h1 {
     color: red;
   }
@@ -11,7 +15,3 @@
     color: blue;
   }
 </style>
-
-<script setup>
-  console.log("Vue e Vuefity a funcionarem!")
-</script>

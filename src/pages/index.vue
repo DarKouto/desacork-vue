@@ -1,5 +1,5 @@
 <script setup>
-  console.log("Este é o index.vue")
+  console.log("Este é o pages/index.vue")
 </script>
 
 <template>

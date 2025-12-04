@@ -3,16 +3,12 @@
 </script>
 
 <template>
+  <AppBar />
   <h1>Contactos</h1>
   <p>E-mail</p>
   <p>Telefone</p>
 </template>
 
 <style scoped>
-  h1 {
-    color: red;
-  }
-  p {
-    color: blue;
-  }
+  /* */
 </style>

@@ -4,14 +4,14 @@
 
 <template>
   <h2>
-    App Bar Muito Bonita
+    AppBar
+    <v-btn to="/" text="Home" color="primary"></v-btn>
     <v-btn to="/contactos" text="Contactos" color="primary"></v-btn>
+    <v-btn to="/about" text="About" color="primary"></v-btn>
   </h2>
   <hr/>
 </template>
 
 <style scoped>
-  h2 {
-    color: blue;
-  }
+ /* */
 </style>
